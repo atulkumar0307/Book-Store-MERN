@@ -1,0 +1,24 @@
+# Ignore node_modules directories in all subfolders
+**/node_modules/
+
+# Ignore .env files in all subfolders
+**/*.env
+
+# Ignore build output directories if applicable
+**/dist/
+**/build/
+
+# Ignore local environment files
+*.local
+
+# Editor specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Visual Studio specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
