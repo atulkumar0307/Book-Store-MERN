@@ -16,7 +16,7 @@
 .idea/
 .DS_Store
 
-# Visual Studio specific files
+# Visual Studio specific file
 *.suo
 *.ntvs*
 *.njsproj
