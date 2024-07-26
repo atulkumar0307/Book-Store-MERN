@@ -1,3 +1,24 @@
+# Book-Store Website
+
+This is a fully functional book-store website developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) with a focus on providing a seamless and interactive user experience. The project includes user authentication, a customizable dark mode, and premium content access.
+
+## Features
+
+- **User Authentication**: Secure login and signup functionality with JWT (JSON Web Tokens) to protect user data and manage user sessions.
+- **Dark Mode**: Integrated a customizable dark mode feature using React Context API, allowing users to switch between light and dark themes for enhanced readability and user experience.
+- **Premium Content**: Implemented functionality for premium content access, providing exclusive features and content to users with specific access rights.
+- **Responsive Design**: The website is fully responsive and optimized for various screen sizes, ensuring a consistent and user-friendly experience across devices.
+- **Admin Panel**: Includes an admin panel where administrators can manage products, including adding, updating, and removing items from the catalog.
+
+## Tech Stack
+
+- **Frontend**: React.js, CSS (pure)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+- **State Management**: React Context API
+
+
 # ScreenShots:-
 
 Here are some screenshots showcasing different features and themes of the application:
